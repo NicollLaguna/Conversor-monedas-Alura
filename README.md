@@ -6,8 +6,11 @@ Este proyecto es una aplicación de consola que permite convertir diferentes mon
 El Conversor de Moneda es una herramienta simple que facilita la conversión entre diferentes monedas, utilizando tasas de cambio actualizadas en tiempo real desde la API de ExchangeRate. La aplicación ofrece una interfaz de usuario por consola y permite realizar las conversiones entre las siguientes monedas:
 
 Dólar estadounidense (USD) ⇆ Peso argentino (ARS)
+
 Dólar estadounidense (USD) ⇆ Real brasileño (BRL)
+
 Dólar estadounidense (USD) ⇆ Peso colombiano (COP)
+
 El programa está implementado en Java puro, sin frameworks externos, y utiliza la biblioteca HttpClient para realizar solicitudes HTTP y Gson para procesar las respuestas en formato JSON de la API.
 
 ## Funcionalidades
